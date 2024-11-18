@@ -1,5 +1,5 @@
 import unittest
-from exam1 import gregorian_cal_utils
+import gregorian_cal_utils
 
 
 class GregorianCalendarUtilsTest(unittest.TestCase):

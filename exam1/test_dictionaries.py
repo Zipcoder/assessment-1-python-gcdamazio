@@ -1,5 +1,5 @@
 import unittest
-from exam1 import dictionaries
+import dictionaries
 
 
 class DictionariesTest(unittest.TestCase):

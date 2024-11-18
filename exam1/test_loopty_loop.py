@@ -1,5 +1,5 @@
 import unittest
-from exam1 import loopty_loop
+import loopty_loop
 
 
 class LooptyLoopTest(unittest.TestCase):

@@ -20,5 +20,25 @@ Now make one that does the opposite: snake2camel()
 '''
 
 
-def foo():
-    pass
+# def foo():
+
+
+# 1. make the word lowercase
+# 2. see where the word " "
+# 3. subst. space " " for _
+# return the word
+
+
+def camel2snake(word):
+    result = []
+    for i in word:
+        if i.isupper():
+            result.append('_')
+        result.append(i.lower())
+    return ''.join(result).lstrip('_')
+
+
+    
+
+
+

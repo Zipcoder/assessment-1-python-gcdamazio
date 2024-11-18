@@ -1,5 +1,5 @@
 import unittest
-from exam1 import evaluator
+import evaluator
 
 
 class EvaluatorTest(unittest.TestCase):

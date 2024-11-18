@@ -18,6 +18,8 @@ Open the program called *evaluator.py*
 
 ```
 python3 -m unittest exam1.test_evaluator
+python3 -m unittest test_evaluator
+
 ```
 
 ## Exercise 3 
@@ -37,6 +39,7 @@ Open the program called *gregorian_cal_utils.py*
 
 ```
 python3 -m unittest exam1.test_gregorian_cal_utils
+python3 -m unittest test_gregorian_cal_utils
 ```
 
 ## Exercise 4
@@ -48,6 +51,7 @@ Open the program called *loopty_loop.py*
 
 ```
 python3 -m unittest exam1.test_loopty_loop
+python3 -m unittest test_loopty_loop
 ```
 
 ## Exercise 5
@@ -59,6 +63,8 @@ Open the program called *listies.py*
 
 ```
 python3 -m unittest exam1.test_listies
+python3 -m unittest test_listies
+
 ```
 
 ## Exercise 6
